@@ -1,0 +1,76 @@
+header{
+    width: 100%;
+}
+
+footer{
+    color: white;
+    background-image: linear-gradient(275deg, #1e4f6d 0, #1d4962 25%, #1f455c 50%, #1c3b4d 75%, #1d3947 100%);
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 60px;
+}
+
+footer a{
+    margin-right: 20px;
+}
+
+.navbar {
+    background-color: #353a40;
+}
+.navbar-brand img{
+    max-width: 100px;
+}
+
+.btn-tickets {
+    color: #25a342
+}
+
+.carousel-item img{
+	background-position: center center;
+	background-size: cover;
+    opacity:0.8;
+}
+
+.btn-green{
+    background-color:#29a744;
+}
+
+.margen{
+    margin-bottom: 7rem;
+}
+
+.titulo-p{
+    font-size: 15px;
+    text-transform: uppercase;
+    flex-direction: column;
+}
+
+.badge-js{
+    background-color: #fec107;
+    color:black;
+}
+
+.badge-react{
+    background-color: #19a2b9;
+}
+
+.badge-negocios{
+    background-color: #6c747e;
+}
+
+.badge-startup{
+    background-color: #db3543;
+}
+
+.form-centrado{
+    display: flex;
+    justify-content: center;
+}
+
+a, .color-etiquetas{
+    text-decoration: none;
+    color: white;
+}
+
+
