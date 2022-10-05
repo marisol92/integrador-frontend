@@ -13,5 +13,5 @@
 ### Resultado final
 #### Les dejo una imagen del trabajo realizado
 
-![Alt text](/img/replica-final.png "resultado del trabajo integrador")
+![Alt text](/img/replica-final.png "imagen final resultado")
 #### Pronto subire link del deploy

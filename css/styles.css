@@ -1,6 +1,4 @@
-header{
-    width: 100%;
-}
+
 
 footer{
     color: white;
@@ -12,7 +10,7 @@ footer{
 }
 
 footer a{
-    margin-right: 45px;
+    margin-right: 20px;
 }
 
 a{
@@ -37,7 +35,7 @@ a{
 }
 
 .btn-green{
-    background-color:#29a744;
+    background-color:#5abc6f;
     color:white;
 }
 
